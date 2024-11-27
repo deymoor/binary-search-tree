@@ -1,0 +1,2 @@
+add_library(binary_search_tree INTERFACE)
+target_include_directories(binary_search_tree INTERFACE .)
